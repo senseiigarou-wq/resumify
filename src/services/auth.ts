@@ -75,7 +75,7 @@ async function fetchUserProfile(
 // ================================
 // 🌐 PROD CONFIG
 // ================================
-const PROD_REDIRECT = "https://your-production-domain.com/";
+const PROD_REDIRECT = "https://resumify.pages.dev/";
 
 export const authService = {
   // ================================
